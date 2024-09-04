@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(30, 129, 96);
+    color: white;
+    font-family: "Playfair Display", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+button {
+    background-color: rgb(105, 197, 166);
+    color: black;
+    font-family: "Playfair Display", serif;
+}
